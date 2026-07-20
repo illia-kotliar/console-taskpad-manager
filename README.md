@@ -1,2 +1,2 @@
 # console-taskpad-manager
-My first Python project
+A mini-project for learning Python and Git.
